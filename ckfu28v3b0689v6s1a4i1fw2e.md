@@ -18,9 +18,32 @@ Once got glimpse of terminology let's dive into actual story.
 
 2. Create a Angular build using command `ng build`
 3. Copy paste `dist` folder source and paste into S3 bucket
-4. Set up S3 website hosting index and error page to index.html. In Angular all page route request should goes to `index.html` for that reason we have set both to index. ![Setting up root file](https://cdn.hashnode.com/res/hashnode/image/upload/v1601696889823/JsUJIPPPg.png)
-5. Create CloudFront endpoint and follow this steps : https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/
-6. Set up Route53 entry for domain. ![Route53 Entry Creation](https://cdn.hashnode.com/res/hashnode/image/upload/v1601750718290/IZLZh8-Zj.png)
+4. Set up S3 website hosting index and error page to index.html. In Angular all page route request should goes to `index.html` for that reason we have set both to index. ![Setting up root file]
+(https://cdn.hashnode.com/res/hashnode/image/upload/v1601696889823/JsUJIPPPg.png)
+5. Set up bucket policy under Permission-> Block Public Access and Permission -> Bucket Policy. 
+Bucket Policy use this same as below:
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::example.com/*"
+            ]
+        }
+    ]
+}
+``` 
+![Block Public Access Configuration](https://cdn.hashnode.com/res/hashnode/image/upload/v1602126494963/y84ykju-j.png)
+
+6. Create CloudFront endpoint and follow this steps : https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/
+7. Set up Route53 entry for domain. ![Route53 Entry Creation](https://cdn.hashnode.com/res/hashnode/image/upload/v1601750718290/IZLZh8-Zj.png)
 
 Now everything is completed ? 
 
