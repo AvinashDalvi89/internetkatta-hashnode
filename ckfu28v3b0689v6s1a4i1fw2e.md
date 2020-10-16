@@ -11,8 +11,13 @@ Let's first understand what is AWS S3, CloudFront, ACM and Route53.
 
 Once got glimpse of terminology let's dive into actual story. 
 
-**Hosting Flow Diagram**
+**How overall hosting flow works below** 👇🏻
+
+
 ![Hosting Flow Diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1601696174266/4cwTAFqDs.png)
+                                                      
+
+**Lets start step by step to create as it shown above architecture** : 
 
 1. Create S3 Bucket and set up required configuration. Keep bucket name same as domain name. Like you have domain `www.example.com` then keep `www.example.com` . Here is details steps to set up S3 bucket as website hosting : https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html ![S3 Bucket Creation](https://cdn.hashnode.com/res/hashnode/image/upload/v1601696610600/uTGoJdFCX.png)                                
 
