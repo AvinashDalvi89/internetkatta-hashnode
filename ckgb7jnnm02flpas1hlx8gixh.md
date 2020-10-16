@@ -1,4 +1,4 @@
-## Cross domain sharing resources like login cookies
+## Share cookies or local storage data between cross domain ?
 
 **Hello Devs**, 
 
