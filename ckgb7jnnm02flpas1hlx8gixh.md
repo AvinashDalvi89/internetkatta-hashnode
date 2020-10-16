@@ -67,7 +67,7 @@ window.addEventListener('message', function(event) {
 
 });
 ```
-**Note** : If you want to use `cookies then you can set using `setCookies` instead of `localStoarge`
+**Note** : If you want to use `cookies` then you can set using `setCookies`  instead of `localStoarge`
 
 We are done with one side communication.Now www.example.com data can accessible using `localStorage.getItem("localstorage");` at `www.example2.com` side. Same steps are applicable in reverse way from `www.example2.com` to `www.example.com`
 
