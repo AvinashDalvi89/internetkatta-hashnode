@@ -16,7 +16,7 @@ Now problem was there is as per www protocol cookies and session information is 
 
 So, there is way to solve this issue. Have u heard about  [Publish-Subscribe Model](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) ? 
 
-In short Publish-Subscribe Model is where is two endpoint can be act as publisher and listener(subscriber) and they will communicate to each other via medium. lets look at below image 👇🏻 where first image explain how two people communicate and second image express how two domain can communite.
+In short Publish-Subscribe Model is where is two endpoint can be act as publisher and listener(subscriber) and they will communicate to each other via medium. lets look at below image 👇🏻 where first image explain how two people communicate and second image express how two domain can communicate.
 
 ![pub-sub-pattern.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602787664177/MxtdWXACF.png)
 
