@@ -1,6 +1,6 @@
 ## Cross domain sharing resources like login cookies
 
-Hello Devs, 
+**Hello Devs**, 
 
 Going to explain about how to share resources like cookies or local storage between subdomain and cross domain if domain owns by same owner or user.
 
