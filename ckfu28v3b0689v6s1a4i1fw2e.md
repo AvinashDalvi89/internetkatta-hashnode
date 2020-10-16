@@ -23,8 +23,7 @@ Once got glimpse of terminology let's dive into actual story.
 
 2. Create a Angular build using command `ng build`
 3. Copy paste `dist` folder source and paste into S3 bucket
-4. Set up S3 website hosting index and error page to index.html. In Angular all page route request should goes to `index.html` for that reason we have set both to index. ![Setting up root file]
-(https://cdn.hashnode.com/res/hashnode/image/upload/v1601696889823/JsUJIPPPg.png)
+4. Set up S3 website hosting index and error page to index.html. In Angular all page route request should goes to `index.html` for that reason we have set both to index. ![Setting up root file](https://cdn.hashnode.com/res/hashnode/image/upload/v1601696889823/JsUJIPPPg.png)
 5. Set up bucket policy under Permission-> Block Public Access and Permission -> Bucket Policy. 
 Bucket Policy use this same as below:
 ```
