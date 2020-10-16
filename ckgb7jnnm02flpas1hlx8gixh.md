@@ -20,6 +20,7 @@ In short Publish-Subscribe Model is where is two endpoint can be act as publishe
 
 ![pub-sub-pattern.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602787664177/MxtdWXACF.png)
 
+
 **How we can develop this pattern using Javascript and HTML ?** : 
 
 This code is in javascript and html so that can used in any javascript framework and html website. I have used this in combination of WordPress and Angular project.
