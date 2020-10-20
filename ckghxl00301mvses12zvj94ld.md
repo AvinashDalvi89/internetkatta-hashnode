@@ -5,6 +5,7 @@
 Few days back i came to one StackOverflow question where user wanted to search file name in nested directory of S3 bucket in python. I thought of writing details about this problem and solution. This was originally published on dev.to i am sharing it again on blog.
 
 **What is exactly **? 
+
 I am explaining about searching file in nested subdirectory is exist in S3 bucket or not. 
 
 **How to solve ** ? 
