@@ -1,13 +1,6 @@
 ## Want to know about SEO ?
 
-<span class="s"></span>
-
-# Want to know about SEO ?
-
-
-<noscript><img alt="Image for post" class="t u v fu aj" src="https://miro.medium.com/max/1740/1*eORkgY1xSSL70lqiF2-urA.jpeg" width="870" height="555" srcSet="https://miro.medium.com/max/552/1*eORkgY1xSSL70lqiF2-urA.jpeg 276w, https://miro.medium.com/max/1104/1*eORkgY1xSSL70lqiF2-urA.jpeg 552w, https://miro.medium.com/max/1280/1*eORkgY1xSSL70lqiF2-urA.jpeg 640w, https://miro.medium.com/max/1400/1*eORkgY1xSSL70lqiF2-urA.jpeg 700w" sizes="700px"/></noscript>
-
-When somebody hears about SEO, There will be few questions that come in mind:
+ When somebody hears about SEO, There will be few questions that come in mind:
 
 *   What exactly does SEO ?
 *   Why is SEO ?
