@@ -26,9 +26,9 @@ Follow below steps :
 
 **Output** : 
 ```
-Update table tablename set fieldname1 = 'mumbai' where fieldname = 'avinashdalvi@test.com';
-Update table tablename set fieldname1 = 'thane' where fieldname = 'avinash@malinator.com';
-Update table tablename set fieldname1 = 'bangalore' where fieldname = 'test@mailinator.com';
+Update tablename set fieldname1 = 'mumbai' where fieldname = 'avinashdalvi@test.com';
+Update tablename set fieldname1 = 'thane' where fieldname = 'avinash@malinator.com';
+Update tablename set fieldname1 = 'bangalore' where fieldname = 'test@mailinator.com';
 ```
 
 
