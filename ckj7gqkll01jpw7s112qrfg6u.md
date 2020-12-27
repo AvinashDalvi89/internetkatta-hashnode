@@ -46,7 +46,7 @@ Then we are done with the final step.
 
 Hope you like my blog. Thanks for reading my blog. If you have any questions you can reach out to me at my twitter handle - @aviboy2006
 
-**Note** : Mentioned sample demo app will work or not also. This is just for reference. 
+**Note** : Mentioned sample demo app will work or not also. This is just for reference. This demo assume your Angular build is already there after running command `ng build`
 
 References : 
 - https://aws.amazon.com/amplify/
