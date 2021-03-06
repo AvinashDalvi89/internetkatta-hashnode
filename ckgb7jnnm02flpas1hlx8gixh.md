@@ -34,7 +34,7 @@ Consider we have two domain www.example.com and www.example2.com.
 ```
 function postCrossDomainMessage(msg) {
   var win = document.getElementById('ifr').contentWindow;
-  win.postMessage(msg, "http://abc.com/");
+  win.postMessage(msg, "http://example.com/");
 }
 var postMsg = {"login": "user"}; // this is just example
 postCrossDomainMessage(postMsg);
@@ -44,7 +44,7 @@ postCrossDomainMessage(postMsg);
 - Step2:  Add iframe tag in landing page where everywhere reflected. For Angular/React you can add it in index.html
 
 ```
-<iframe style="display:none;" src="http://abc.com/getlocalstorage.html" id="ifr"></iframe>
+<iframe style="display:none;" src="http://example.com/getlocalstorage.html" id="ifr"></iframe>
 ```
 
 - Step3: On recipient domain `www.example2.com` create `getlocalstorage.html` file and put this code 👇🏻 in file `getlocalstorage.html`
