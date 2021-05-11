@@ -71,3 +71,5 @@ Here I am finishing helpful details to start AWS Cloud Journey. If any help is r
  - https://www.internetkatta.com/develop-progress-bar-for-aws-s3-file-upload-using-javascript
  - https://www.internetkatta.com/host-wordpress-site-on-aws-s3-bucket
  - https://www.internetkatta.com/how-to-create-tar-file-compression-in-aws-s3
+
+More details guid about certification can be found here written by @[Sam Julien](@samjulien) https://www.samjulien.com/where-to-start-with-aws-as-a-developer
