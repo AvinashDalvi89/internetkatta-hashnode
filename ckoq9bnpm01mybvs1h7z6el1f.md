@@ -46,7 +46,7 @@ Allow ✅
 // Output "Hello World"
 ```
 
-Now you understand what is **Nullish Coalescing (??)**. Lets understand how this is supported in Angular 12.
+Now you understand what is **Nullish Coalescing (??)**. Let's understand how this is supported in Angular 12.
 
 Currently if you are using a statement in a template like this. Where `imageUrl` is either set by component or child component. if `imageUrl` is not set then go for `getRandomImages()` function call. 
 
