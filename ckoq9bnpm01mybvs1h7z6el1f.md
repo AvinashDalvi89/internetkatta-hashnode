@@ -67,7 +67,7 @@ Can be written using **Nullish Coalescing (??)**
 
  [Github Code Link ](https://github.com/aviboy2006/angular12-nullish-coalescing-example) 
 
-Thanks for reading this blog. Hope you understand this concept. And if you have any query related to this concept can reach out to me over my twitter handle  [@aviboy2006](https://twitter.com/aviboy2006) or can raise an issue on GitHub link. 
+Thanks for reading this blog. Hope you understand this concept. And if you have any query related to this concept can reach out to me over my twitter handle  [@aviboy2006](https://twitter.com/aviboy2006) or can raise an issue on GitHub link. If you like this blog don't forgot drop star on GitHub repository. 
 
 **References** : 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
