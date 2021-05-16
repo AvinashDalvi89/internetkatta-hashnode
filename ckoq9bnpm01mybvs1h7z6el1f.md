@@ -48,14 +48,14 @@ Allow ✅
 
 Now you understand what is **Nullish Coalescing (??)**. Let's understand how this is supported in Angular 12.
 
-Currently if you are using a statement in a template like this. Where `imageUrl` is either set by component or child component. if `imageUrl` is not set then go for `getRandomImages()` function call. 
+Currently if you are using a statement in a template like this. Where `imageUrl` is either set by component or child component. if `imageURL` is not set then go for `defaultImageURL` default variable.
 
 ```
-{{imageUrl !== null && imageUrl !== undefined ? imageUrl : getRandomImages() }}
+{{imageURL !== null && imageURL !== undefined ? imageURL : defaultImageURL }}
 ```
 Can be written using **Nullish Coalescing (??)**
 ```
-{{ imageUrl ?? getRandomImages() }} 
+{{ this.imageURL ?? this.defaultImageURL }} 
 ```
 
 <iframe src="https://codesandbox.io/embed/nullish-coalescing-example-hzbc9?fontsize=14&hidenavigation=1&theme=dark"
