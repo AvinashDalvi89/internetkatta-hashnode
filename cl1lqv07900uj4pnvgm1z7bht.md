@@ -174,7 +174,7 @@ I had word with the manager about this rejection. He pointed out one important t
 
 For that build ( Open testing track ) we got a good response as per mail. Assuming this is not an issue and considering this I submitted the final build number to the production track.
 
-This time we again got rejection mail for 413 build ( 1.9.0.309 ) but something was different in their messaging. In rejection mail they didn’t mention any build number 
+This time we again got rejection mail for latest build but something was different in their messaging. In rejection mail they didn’t mention any build number 
 
 ### Action 10: Update Location permission policy to ‘NO’: 
 
