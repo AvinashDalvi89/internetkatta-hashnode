@@ -193,5 +193,5 @@ Thanks for reading this whole summary. Hope it will inspire you to help other pe
 
 Feel free to reach out to me if you need any help. I will be happy to answer your query if any. 
 
-
+**My journey blog** : https://www.internetkatta.com/how-i-landed-as-full-stack-developer
 
