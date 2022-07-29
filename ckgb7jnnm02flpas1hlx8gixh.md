@@ -75,7 +75,7 @@ Now if customer or user login to one website then no need to login to another we
 
 You can find detail code example at my  [GitHub Example](https://github.com/aviboy2006/cross-domain-cookie-sharing ) . Click a star if you find this useful.
 
-Thank you 🙏🏻 for reading article, I would 👍🏻 to connect with you at  [Twitter](https://twitter.com/aviboy2006) .
+Thank you 🙏🏻 for reading article, You can connect with me at  [Twitter](https://twitter.com/aviboy2006) .
 
 Share your valuable feedback and suggestions!
 
