@@ -8,22 +8,22 @@ In this article I am going to share my experience of attending the first ever AW
 
 ### Journey start here 👇🏻
 
-I got mail on 12th July 2022 from APJ Community Builder program subject line was quite interesting "**Are you able to attend the APJ Community Summit?**" It was received around 18:22 IST. But due to my busy schedule on this day I couldn't read that time. While going to bed I generally read all the mails. I read this mail and the content. I was surprised with this invitation. I never got any private invitation in my whole career for global events. For me it was on cloud nine ( In Marathi we called  आकाश ठेंगणे वाटणे - means more happiness ). Just to reconfirm this I double checked with [Shafraz Rahim](https://twitter.com/shafjag) and [Rohini Gaonkar](https://twitter.com/rohini_gaonkar). Yes they have confirmed the same. Next day I told my wife Trupti about this. She also got happy after hearing this news. Then we discussed this because it was the first time I am going to fly without family and they are also going to stay alone without me ( wife and my kid Advit). So it will be challenging for both of us. We may need to confirm the same before accepting the invitation. She said yes without thinking too much about this. She said "Avi go yaar this is your time". You are doing good and you are getting back what you are doing for the community. These words always motivate me when she supports me. 
+I got mail on 12th July 2022 from APJ Community Builder program subject line was quite interesting "**Are you able to attend the APJ Community Summit?**" It was received around 18:22 IST. But due to my busy schedule on this day I couldn't read that time. While going to bed I generally read all the mails. I read this mail and the content. I was surprised with this invitation. I never got any private invitation in my whole career for global events. For me it was on cloud nine ( In Marathi we say  आकाश ठेंगणे वाटणे - means more happiness ). Just to reconfirm this I double checked with [Shafraz Rahim](https://twitter.com/shafjag) and [Rohini Gaonkar](https://twitter.com/rohini_gaonkar). Yes they have confirmed the same. Next day I told my wife Trupti about this. She also got happy after hearing this news. Then we discussed this because it was the first time I am going to fly without family and they are also going to stay alone without me ( wife and my kid Advit). So it will be challenging for both of us. We may need to confirm the same before accepting the invitation. She said yes without thinking too much about this. She said "Avi go yaar this is your time". You are doing good and you are getting back what you are doing for the community. These words always motivate me when she supports me. 
 
 ### Next step 
 
 Next step was to fill out the form and accept the invitation which I did. Later received multiple communications to confirm our flight details and hotel accommodation. One thing here I want to mention about AWS is they always select the best hotel or accommodation for their event. Not just because of this summit but whichever event I attended in India it was the best venue. Thanks to AWS and the team for curating this venue. Special thanks to  [Shafraz Rahim](https://twitter.com/shafjag) and team. 
 
-### Never be so easy 
+### Never been so easy
 
 My journey to this summit was not easy as always. On 13th August 2022 I got to know from the Doctor my father is in critical condition. They mentioned nothing can predict that you have to visit him immediately. We went to Mumbai immediately on the same day. 15th August 2022 was the last day to submit a session to present the summit if anyone was interested. I wasn't able to think much on technical topics due to my condition at home. But my father said don't worry, whatever you can try to submit topics. I submitted topic " **How to write blog and share learning with Community - Storytelling skill** " ( unfortunately it was not selected for the final summit). Even he told me not to wait for me to go and attend the summit. Nothing will happen to me, but I was aware of the actual fact. I made up my mind that I need to be here to take care of him whatever I can even if I missed this opportunity. On 22nd August 2022 he left this world 😭😭 but while leaving us he told me one line "**Don't stop Avinash keep doing good work and helping people**" - he was not able to speak properly because he lost control of brain at that time but he tried to speak. In his life he helped many people whichever way he was able to do, sometimes not having a single penny in his pocket. He is still with me with his thoughts. After this I have to move to my village for one month to follow some rituals. I came back to Bangalore on 7th Sept 2022. 
 
 ### Preparation start 
 
-The India team whoever got the invitation created a common WhatsApp group to discuss the process and any challenges like currency conversion, visa form filling, getting sim etc etc. Then the final agenda for the summit got published. We were so excited to meet everyone there, attend all sessions, award functions with traditional attire and many more surprises. First time going to meet many folks from India communities and APJ region. I am so excited for this summit.  
+The India team whoever got the invitation got added into a common WhatsApp group created by Rohini & Vivek to discuss the process and any challenges like currency conversion, visa form filling, getting sim etc etc. Then the final agenda for the summit got published. We were so excited to meet everyone there, attend all sessions, award functions with traditional attire and many more surprises. First time going to meet many folks from India communities and APJ region. I am so excited for this summit.  
 Thanks to Rohini & Ridhima for creating this group and making this easier to reach in the summit. 
 
-### Time to fly Bangkok 
+### Time to fly to Bangkok
 
 ![travel-late.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1663592467235/F1VnbB4V6.gif align="left")
 Yeah...It is time to fly. Bangalore folks were going on the same flight. Journey was going to be exciting. Off-course every moment is going to capture and put in social. and why not ? This is going to be memorable if we could look back years after we should feel proud of ourselves and happy. This is the first picture we took at Bangalore airport before boarding the flight. This time to experience diversity in APJ along with Indian diversity. 
@@ -42,7 +42,7 @@ Got a great goodies pack from the AWS team and warm welcome from the hotel team.
 
 ### Welcome at Dinner party 
 
-Now it's time to meet everyone at Dinner party. Also time to meet my most favourite person Jason Dunn, Shafraz Rahim  and other AWS team members. Dinner party was planned nicely. Welcome introduction, favourite activity is kahot.io questions 😅 and then networking with everyone. Kahot was very interesting. We always look at this questionnaire as learning along with fun. From the India team Toshal and Jones were able to get podiums. 
+Now it's time to meet everyone at Dinner party. Also time to meet my most favourite person Jason Dunn, Shafraz Rahim  and other AWS team members. Dinner party was planned nicely. Welcome introduction, favourite activity is kahoot.io questions 😅 and then networking with everyone. Kahot was very interesting. We always look at this questionnaire as learning along with fun. From the India team Toshal and Jones were able to get podiums. 
 
 %[https://twitter.com/NeetuMallan/status/1570041344470700039?s=20&t=HWlsN5quWstJOjDu7S9VBw]
 
@@ -62,18 +62,20 @@ Day arrived finally here to  "**Learn, Connect and Entertainment**"
 
 %[https://twitter.com/Aviboy2006/status/1570239096412590080?s=20&t=HWlsN5quWstJOjDu7S9VBw]
 
-Kriss and Shafraz shared insights from APJ community works done so far from AWS user groups, Community Builders and Hero's. 
+Kris Howard and Shafraz shared insights from APJ community works done so far from AWS user groups, Community Builders and Heroes. 
 
 - Communities are key 
-- Communities is so important
+- Communities are so important
 
-Later there were various sessions planned on serverless, hybrid video, interesting journey of AWS lambda, art of storytelling. Then it is time to take APJ community groups with the country flag. And here is photo 👇🏻
+Later there were various sessions planned on serverless, hybrid video, interesting journey of AWS Lambda, art of storytelling. Then it is time to take APJ community groups with the country flag. And here is photo 👇🏻
 
 %[https://twitter.com/shafjag/status/1570359004731441159?s=20&t=HWlsN5quWstJOjDu7S9VBw]
 
 ### AWS Community Summit APAC awards. 
 
 Time to celebrate awards. The AWS APJ team managed to get around 8-10 categories for appreciating contributions done by AWS user groups, leaders, heroes and Community builders. Many of the categories our India team got nominated out of them some grab also here are details. 
+
+%[https://twitter.com/installjournal/status/1570398009594376193?s=20&t=jybNWaMz6Sp5GbgoSGGtug]
 
 %[https://twitter.com/zachjonesnoel/status/1570395278376833029?s=20&t=HWlsN5quWstJOjDu7S9VBw]
 
@@ -118,7 +120,7 @@ Thanks to everyone, Shafraz, Rohini, Riddhima and Jason for giving me the opport
 
 ### What I felt after meeting India team 
 
-This was a great time to meet my own India community team and the experience was amazing. This is like my family who help everyone to grow and lift their barrier to go out of the box. Everyone was amazing Partha, Rohini, Riddhima, Toshal, Amandeep, Rahul, Atul, Abhishek, Srushit, Deepali, Rajat, Jones, Vivek, Neethu, Dheeraj, Jayesh, Jeevan, Abhilash, Dijeesh, Sandeep, Nipun, Sabarinath, Sridevi, Illan, Gaurav, Dhaval, Aditya, Faizal, Ankit and our neighbouring country AWS UG leaders Bikas, Barsha, Tisha. We discussed many ideas, communities initiatives. 
+This was a great time to meet my own India community team and the experience was amazing. This is like my family who help everyone to grow and lift their barrier to go out of the box. Everyone was amazing Parth, Rohini, Bhuvana, Ridhima, Toshal, Amandeep, Rahul, Atul, Abhishek, Srushit, Deepali, Rajat, Jones, Vivek, Neethu, Dheeraj, Jayesh, Jeevan, Abhilash, Dijeesh, Sandeep, Nipun, Sabarinath, Sridevi, Illan, Gaurav, Dhaval, Aditya, Faizal, Ankit and our neighbouring country AWS UG leaders Bikas, Barsha, Tisha, Manoj, Sumama. We discussed many ideas, communities initiatives. 
 
 Thanks to everyone who was part of this summit. I never forget single moment of this summit. For me as first comer it was best experience ever. 
 
