@@ -6,7 +6,7 @@ Hope everyone is doing well!
 
 In this article I am going to share my experience of attending the first ever AWS Community Summit APAC 2022 and my first international event in Bangkok, Thailand. 
 
-### Journey start here 👇🏻
+### Journey starts here 👇🏻
 
 I got mail on 12th July 2022 from APJ Community Builder program subject line was quite interesting "**Are you able to attend the APJ Community Summit?**" It was received around 18:22 IST. But due to my busy schedule on this day I couldn't read that time. While going to bed I generally read all the mails. I read this mail and the content. I was surprised with this invitation. I never got any private invitation in my whole career for global events. For me it was on cloud nine ( In Marathi we say  आकाश ठेंगणे वाटणे - means more happiness ). Just to reconfirm this I double checked with [Shafraz Rahim](https://twitter.com/shafjag) and [Rohini Gaonkar](https://twitter.com/rohini_gaonkar). Yes they have confirmed the same. Next day I told my wife Trupti about this. She also got happy after hearing this news. Then we discussed this because it was the first time I am going to fly without family and they are also going to stay alone without me ( wife and my kid Advit). So it will be challenging for both of us. We may need to confirm the same before accepting the invitation. She said yes without thinking too much about this. She said "Avi go yaar this is your time". You are doing good and you are getting back what you are doing for the community. These words always motivate me when she supports me. 
 
