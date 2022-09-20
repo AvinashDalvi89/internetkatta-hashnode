@@ -114,7 +114,7 @@ Some more interesting and insightful session on
 
 This is how the summit's second day finished with an amazing session and closing note by Kris Howard  and Shafraz. 
 
-In this summit I met Farrah Campbell, Raja SP, Justin, Sheraz Hasan and other AWS folks ( Sorry couldn't remember everyone's name). It was a superb experience of talking with them. 
+In this summit we met Farrah Campbell, Raja SP, Justin, Sheraz Hasan and other AWS folks ( Sorry couldn't remember everyone's name). It was a superb experience of talking with them. 
 
 ![IMG_2467.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1663637701028/BXCEb_buj.jpg align="left")
 
