@@ -20,8 +20,8 @@ My journey to this summit was not easy as always. On 13th August 2022 I got to k
 
 ### Preparation start 
 
-The India team whoever got the invitation got added into a common WhatsApp group created by Rohini & Vivek to discuss the process and any challenges like currency conversion, visa form filling, getting sim etc etc. Then the final agenda for the summit got published. We were so excited to meet everyone there, attend all sessions, award functions with traditional attire and many more surprises. First time going to meet many folks from India communities and APJ region. I am so excited for this summit.  
-Thanks to Rohini & Ridhima for creating this group and making this easier to reach in the summit. 
+The India team whoever got the invitation got added into a common WhatsApp group created to discuss the process and any challenges like currency conversion, visa form filling, getting sim etc etc. Then the final agenda for the summit got published. We were so excited to meet everyone there, attend all sessions, award functions with traditional attire and many more surprises. First time going to meet many folks from India communities and APJ region. I am so excited for this summit.  
+Thanks to Rohini & Vivek for creating this group and making this easier to reach in the summit. 
 
 ### Time to fly to Bangkok
 
@@ -112,7 +112,11 @@ Some more interesting and insightful session on
 
 %[https://twitter.com/web_goddess/status/1570616258797928451?s=20&t=7XKeMu68LIIiXRKJDZkpMw]
 
-This is how the summit's second day finished with an amazing session and closing note by Kriss and Shafraz. 
+This is how the summit's second day finished with an amazing session and closing note by Kris Howard  and Shafraz. 
+
+In this summit I met Farrah Campbell, Raja SP, Justin and other AWS folks ( Sorry couldn't remember everyone's name). It was a superb experience of talking with them. 
+
+![IMG_2467.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1663637701028/BXCEb_buj.jpg align="left")
 
 This is not just the end of the summit, it is the beginning of a new era for AWS Community Summit APAC. And hoping to join next year too. 
 
@@ -124,7 +128,7 @@ This was a great time to meet my own India community team and the experience was
 
 Thanks to everyone who was part of this summit. I never forget single moment of this summit. For me as first comer it was best experience ever. 
 
-You can always connect with me twitter handler @aviboy2006. I am going to share the experience of my first international trip to Bangkok. Stay tuned to view the upcoming lots of memories of photos on my YouTube Channel - https://www.youtube.com/c/Learnwithaviboy2006 
+You can always connect with me twitter handler [@aviboy2006](https://twitter.com/aviboy2006). I am going to share the experience of my first international trip to Bangkok. Stay tuned to view the upcoming lots of memories of photos on my YouTube Channel - https://www.youtube.com/c/Learnwithaviboy2006 
 
 
 ### Reference : 
