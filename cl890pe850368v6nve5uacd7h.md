@@ -67,7 +67,7 @@ Kris Howard and Shafraz shared insights from APJ community works done so far fro
 - Communities are key 
 - Communities are so important
 
-Later there were various sessions planned on serverless, hybrid video, interesting journey of AWS Lambda, art of storytelling. Then it is time to take APJ community groups with the country flag. And here is photo 👇🏻
+Later there were various sessions planned on serverless, hybrid video, interesting journey of AWS Lambda, art of storytelling. Also we had good discussion on AWS Community workshop with Jason. Then it is time to take APJ community groups with the country flag. And here is photo 👇🏻
 
 %[https://twitter.com/shafjag/status/1570359004731441159?s=20&t=HWlsN5quWstJOjDu7S9VBw]
 
@@ -114,7 +114,7 @@ Some more interesting and insightful session on
 
 This is how the summit's second day finished with an amazing session and closing note by Kris Howard  and Shafraz. 
 
-In this summit I met Farrah Campbell, Raja SP, Justin and other AWS folks ( Sorry couldn't remember everyone's name). It was a superb experience of talking with them. 
+In this summit I met Farrah Campbell, Raja SP, Justin, Sheraz Hasan and other AWS folks ( Sorry couldn't remember everyone's name). It was a superb experience of talking with them. 
 
 ![IMG_2467.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1663637701028/BXCEb_buj.jpg align="left")
 
