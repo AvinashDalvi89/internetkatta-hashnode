@@ -87,10 +87,10 @@ Now we are done with the creation of a custom plugin.
 - Changing default unique parameter while importing or creating lead in Mautic 
 - Customisation of process flow like addition of extra flow in automated flow. 
 
-I hope this helped you in understanding how to create a custom plugin. If you have any Queries or Suggestions, feel free to reach out to me in the Comments Section below or my twitter handle [@aviboy2006](https://twitter.com/aviboy2006).
+I hope this helped you in understanding how to create a custom plugin. If you have any Queries or Suggestions, feel free to reach out to me in the Comments Section below or my twitter handle [@AvinashDalvi_](https://twitter.com/AvinashDalvi_).
 
-I have created one [Mautic Plugin Creator](https://github.com/aviboy2006/mautic-plugin-creator).  This is just bundle creation to avoid manual effort which is available on :
-- https://github.com/aviboy2006/mautic-plugin-creator
+I have created one [Mautic Plugin Creator](https://github.com/AvinashDalvi89/mautic-plugin-creator).  This is just bundle creation to avoid manual effort which is available on :
+- https://github.com/AvinashDalvi89/mautic-plugin-creator
 - https://packagist.org/packages/aviboy2006/mautic-plugin-creator
 
 If you like, don't forget to give stars. 
