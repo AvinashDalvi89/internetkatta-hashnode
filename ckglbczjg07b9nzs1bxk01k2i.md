@@ -1,4 +1,4 @@
-## Develop progress bar for AWS S3 file upload using Javascript
+# Develop progress bar for AWS S3 file upload using Javascript
 
 
 
@@ -32,7 +32,7 @@ Before the browser script can access the Amazon S3 bucket, you must have to firs
         <AllowedHeader>*</AllowedHeader>
         <ExposeHeader>ETag</ExposeHeader>
     </CORSRule>
-</CORSConfiguration></span>
+</CORSConfiguration>
 ```
 
 
