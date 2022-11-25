@@ -1,4 +1,4 @@
-## How and from where to start AWS cloud journey ?
+# How and from where to start AWS cloud journey ?
 
 I came across one request for an article over a hashnode platform. Being an AWS Cloud enthusiast I thought of sharing all my findings and some research projects to do. 
 
@@ -61,6 +61,7 @@ You can see in the picture below that it provides all services which you can thi
 - Textract : https://www.internetkatta.com/extract-text-or-data-using-aws-textract
 - Static web hosting using AWS S3 : https://www.internetkatta.com/static-hosting-of-angular-build-using-aws-amplify, https://www.internetkatta.com/host-angular-2-or-4-or-5-version-in-aws-s3-using-cloudfront
 - Lambda and API gateway : https://www.youtube.com/watch?v=97q30JjEq9Y
+- AWS Basic service introduction and how to use : https://www.youtube.com/channel/UC9X-0OwTK4PdbWronkNwXSA
 
 Here I am finishing helpful details to start AWS Cloud Journey. If any help is required you can reach out to my twitter handler @aviboy2006. 
 
