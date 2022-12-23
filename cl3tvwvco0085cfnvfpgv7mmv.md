@@ -1,4 +1,4 @@
-## What I learned from The Leader who had no title book ?
+# What I learned from The Leader who had no title book ?
 
 Hello Readers, 
 
@@ -189,7 +189,7 @@ There is **SHINE** Rule of this chapter :
 
 This is what I have learned and summarised from book.  Thanks to Robin Sharma for awesome book. 
 
-Thanks for reading this whole summary. Hope it will inspire you to help other people and help you to become a leader without a title. I need your help to share this summary and about the book "The Leader Who Had No Title " to your friends, your social networks. If possible, give this book to your friend. You can follow me on twitter handle @aviboy2006 
+Thanks for reading this whole summary. Hope it will inspire you to help other people and help you to become a leader without a title. I need your help to share this summary and about the book "The Leader Who Had No Title " to your friends, your social networks. If possible, give this book to your friend. You can follow me on twitter handle @AvinashDalvi_ 
 
 Feel free to reach out to me if you need any help. I will be happy to answer your query if any. 
 
