@@ -33,7 +33,7 @@ or if you have to select specific folder inside bucket then
 s3 cp ./ s3://bucketname/folder/folder --recursive
 ```
 
-### Benefits of using `resync` command:
+### Benefits of using `rsync` command:
 
 * is no data leakage will happen
     
