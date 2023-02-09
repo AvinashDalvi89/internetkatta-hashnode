@@ -14,7 +14,7 @@ While googling found good solutions to tackle this problem.
 
 Considering you have access to the SSH server and S3 bucket AWS credentials.
 
-1. Need to use `resync` command. There is `SCP` the command is also available but if the internet interrupts you have to start again. And FileZilla took more time than the terminal command. `sshdirectorypath` will be SSH server directory from where you have to get files and folders and it will do all recursively. Same `/localmachine/directory/` your local machine directory.
+1. Need to use `rsync` command. There is `SCP` the command is also available but if the internet interrupts you have to start again. And FileZilla took more time than the terminal command. `sshdirectorypath` will be SSH server directory from where you have to get files and folders and it will do all recursively. Same `/localmachine/directory/` your local machine directory.
     
 
 ```bash
