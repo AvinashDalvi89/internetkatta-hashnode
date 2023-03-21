@@ -1,4 +1,12 @@
-# How and from where to start AWS cloud journey ?
+---
+title: "How and from where to start AWS cloud journey ?"
+datePublished: Thu Feb 18 2021 19:03:44 GMT+0000 (Coordinated Universal Time)
+cuid: cklb8g1fk02jh1as17d610ejr
+slug: how-and-from-where-to-start-aws-cloud-journey
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1613674837555/hHqcO3adA.png
+tags: cloud, aws, learning, beginners, learning-journey
+
+---
 
 I came across one request for an article over a hashnode platform. Being an AWS Cloud enthusiast I thought of sharing all my findings and some research projects to do.
 
@@ -51,6 +59,12 @@ You can see in the picture below that it provides all services which you can thi
 
 Here I am finishing helpful details to start AWS Cloud Journey. If any help is required you can reach out to my twitter handler @aviboy2006.
 
-\*\*Some more interesting ideas \*\* :  - https://www.internetkatta.com/aws-lambda-monitoring-mechanism-using-sns  - https://www.internetkatta.com/want-to-know-magic-of-aws-cloudwatch  - https://www.internetkatta.com/search-file-or-folder-in-nested-subdirectory-of-s3-bucket  - https://www.internetkatta.com/develop-progress-bar-for-aws-s3-file-upload-using-javascript  - https://www.internetkatta.com/host-wordpress-site-on-aws-s3-bucket  - https://www.internetkatta.com/how-to-create-tar-file-compression-in-aws-s3
+\*\*Some more interesting ideas \*\* :  
+- https://www.internetkatta.com/aws-lambda-monitoring-mechanism-using-sns  
+- https://www.internetkatta.com/want-to-know-magic-of-aws-cloudwatch  
+- https://www.internetkatta.com/search-file-or-folder-in-nested-subdirectory-of-s3-bucket  
+- https://www.internetkatta.com/develop-progress-bar-for-aws-s3-file-upload-using-javascript  
+- https://www.internetkatta.com/host-wordpress-site-on-aws-s3-bucket  
+- https://www.internetkatta.com/how-to-create-tar-file-compression-in-aws-s3
 
 More details guide about certification can be found here written by @[Sam Julien](@samjulien) https://www.samjulien.com/where-to-start-with-aws-as-a-developer
