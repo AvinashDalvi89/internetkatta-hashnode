@@ -61,7 +61,7 @@ Being a full-stack developer I used my all skill set to make this tool more usef
 
 ### Idea got extended
 
-During ACD India event preparation time CFP got opened for AWS Community day, Pune. I thought to apply there and showcase the same story about How I built this virtual photo booth. I discussed this idea with Jones. he told me can we make a fully customisable tool which any community or group can use for their event. Then we decided to build this virtual photo booth with AWS Amplify studio with the same admin functionality. We decided to add some more functionality like :
+During ACD India event preparation time CFP got opened for AWS Community Day, Pune. I thought to apply there and showcase the same story about How I built this virtual photo booth. I discussed this idea with @[Jones Zachariah Noel N](@zachjonesnoel) . he told me can we make a fully customisable tool which any community or group can use for their event. Then we decided to build this virtual photo booth with AWS Amplify studio with the same admin functionality. We decided to add some more functionality like :
 
 * Admin login using Cognito
     
