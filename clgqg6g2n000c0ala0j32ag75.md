@@ -33,7 +33,9 @@ But the question is how can I get early notification whenever disk utilisation r
 
 ### DataDog ?
 
-Datadog is one the best monitoring and log management platforms. Where you can integrate your on-premise or cloud instance or services to get all logs and metrics in one place. Datadog provides real-time monitoring and event triggering based on a metric threshold or logs message to act upon it. The image source is from the official Datadog site
+Datadog is one the best monitoring and log management platforms. Where you can integrate your on-premise or cloud instance or services to get all logs and metrics in one place. Datadog provides real-time monitoring and event triggering based on a metric threshold or logs message to act upon it.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682133256845/619fc0de-1337-4b42-a905-eb18850b649b.png align="center")
 
 ### How can Datadog help in Disk utilisation?
 
