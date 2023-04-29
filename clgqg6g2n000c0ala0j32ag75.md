@@ -90,6 +90,8 @@ Let's understand how DataDog can be integrated with AWS EBS volume and fetch req
 
 This is how the integration of Datadog with the instance is completed and able to view EBS volume metrics and follow patterns to decide on optimising cost :)
 
+%[https://youtu.be/PfZFjtjgtko] 
+
 I hope this blog helps you to learn. Feel free to reach out to me on my Twitter handle @[@AvinashDalvi_](@AvinashDalvi_) or comment on the blog.
 
 ### References :
