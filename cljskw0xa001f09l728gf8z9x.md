@@ -156,6 +156,10 @@ This is how KCD Bengaluru 2023 event concluded with a happy ending but this is n
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688710649559/c398e48c-a790-4560-b889-54c61b5d42b8.jpeg align="center")
 
+### Social media impact
+
+%[https://twitter.com/AvinashDalvi_/status/1665212131472711682?s=20] 
+
 ### Takeaway
 
 Learning, Learning and more learning. Because learning is never ending process.
