@@ -182,3 +182,7 @@ Thank you for reading Journey. Hope this helps you and excites you to become a v
 * [https://namyalg.medium.com/volunteering-at-kubernetes-community-day-blr23-19fe5e7e3d04](https://namyalg.medium.com/volunteering-at-kubernetes-community-day-blr23-19fe5e7e3d04)
     
 * [https://anushasridharan.in/transformative-experience-at-kcd-bengaluru-2023](https://anushasridharan.in/transformative-experience-at-kcd-bengaluru-2023)
+    
+* [https://vishal7771.hashnode.dev/my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem](https://vishal7771.hashnode.dev/my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem)
+    
+* [https://dev.to/mdshoaib19095/unforgettable-my-journey-at-the-kubernetes-community-daykcd-bangalore-2023-kij](https://dev.to/mdshoaib19095/unforgettable-my-journey-at-the-kubernetes-community-daykcd-bangalore-2023-kij)
