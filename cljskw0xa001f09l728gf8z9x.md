@@ -177,6 +177,8 @@ One of my dreams I can wish to organise such an event in upcoming future. Long w
 
 Thank you for reading Journey. Hope this helps you and excites you to become a volunteer in any future events and gain a similar experience.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688759099657/c65101a4-a588-4471-b586-5cbd20e38b2c.png align="center")
+
 ### More blogs on KCD Bengaluru 2023 :
 
 * [https://namyalg.medium.com/volunteering-at-kubernetes-community-day-blr23-19fe5e7e3d04](https://namyalg.medium.com/volunteering-at-kubernetes-community-day-blr23-19fe5e7e3d04)
