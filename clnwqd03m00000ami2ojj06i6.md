@@ -61,6 +61,8 @@ Before the SOCI `snapshotter` lazily loads a container image it needs to know im
 * Improved performance of containerised workloads
     
 
+%[https://youtube.com/shorts/ZfZPlDE_CgU] 
+
 I hope this information excites you to give it a try on SOCI to reduce your container start time on Amazon ECS and Fargate. Feel free to reach out to me on my Twitter handle @[@AvinashDalvi_](@AvinashDalvi_) or comment on the blog.
 
 After reading multiple blogs I have consolidated my learning from Mayur's talk and research. Find below all references which can give more details about the whole execution.
