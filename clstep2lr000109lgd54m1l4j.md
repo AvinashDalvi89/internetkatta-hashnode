@@ -25,7 +25,7 @@ The Mautic community holds a special place in my heart. It's where I discovered 
 
 Last year, during a brainstorming session on Mautic's marketing strategy, I found myself chatting with [Ruth Cheesley](https://www.ruthcheesley.co.uk/), the project lead. I confessed my dream: "*I'd love to attend an international Mautic conference someday!*" To my surprise, Ruth responded with, "*India might be an option for November... but we need a team to propose it!"* My heart skipped a beat – could this be a reality?
 
-> Luck is when opportunity knocks, and you answer. **If opportunity doesn't knock, build a door.** **— Milton Berle**.
+> Luck is when opportunity knocks, and you answer. **If opportunity doesn't knock, build a door.— Milton Berle**.
 
 And I responded positively to grab this opportunity. I submitted form and started working on next step.
 
@@ -39,7 +39,7 @@ Those datapoints was taking us towards next step. It means it got approval from 
 
 Following the Mautic community's philosophy of shared responsibility, Ruth laid the groundwork by outlining key roles and priorities like venue and date selection. To avoid individual burnout, we embraced a collaborative approach, inviting Rahul Shinde, Mohit Aghera, and Surabhi Gokte to join as co-organizers. Let me introduce you to these amazing individuals:
 
-* [Rahul Shinde](https://www.linkedin.com/in/shinderahul/) \- a name synonymous with Drupal in Pune! With 16 years of experience, he co-hosts the local group and actively fuels the Mautic community. This passionate tech guru, armed with laser-sharp organizational skills, is leading the technical charge for the epic Mautic Conference India!
+* [Rahul Shinde](https://www.linkedin.com/in/shinderahul/) - a name synonymous with Drupal in Pune! With 16 years of experience, he co-hosts the local group and actively fuels the Mautic community. This passionate tech guru, armed with laser-sharp organizational skills, is leading the technical charge for the epic Mautic Conference India!
     
 * Surabhi Gokte - An active non-code contributor in the Drupal community. Women In Drupal 2022 Award Winner. Long time member of Drupal community. She is our social media and content champion.
     
@@ -165,7 +165,7 @@ The final curtain fell on the Mautic Conference India 2024, leaving hearts full 
 
 While attendee numbers are often seen as a key metric of success, for me, the true measure of the Mautic Conference India 2024 lay in introducing the platform to a whole new audience. Over the past few months, from planning to execution, we successfully brought Mautic to the attention of individuals who had never encountered it before. This, in my opinion, is the event's greatest achievement. As I firmly believe, a single individual willing to share knowledge and another eager to learn can create a significant impact, regardless of the scale. While we may not have matched the size of other large events, the joy comes from knowing that this initiative made a genuine contribution to the Mautic project.
 
-Hosting the Mautic Conference was a masterclass in \[specific areas like collaboration, audience engagement, sponsor management\]. Observing different approaches and learning from others' experiences has equipped me with \[ observing, perseverance\]. These takeaways will definitely be on my event planning checklist next time! and for you too.
+Hosting the Mautic Conference was a masterclass in collaboration, audience engagement, sponsor management. Observing different approaches and learning from others' experiences has equipped me with observing and perseverance. These takeaways will definitely be on my event planning checklist next time! and for you too.
 
 ### Takeaway :
 
@@ -179,6 +179,10 @@ Hosting the Mautic Conference was a masterclass in \[specific areas like collabo
     
 * Collaboration
     
+
+Thanks to all volunteers Ajit Shinde, Pratik Upadhyay, Sibu Simran, Jitesh, Aastha Sushil, Vishal Alhat,Vinit, Nikita, Abhisek Mazumdar and Parth. This success would not have been possible without the incredible contributions of each and every one of you.
+
+Thanks to my mentor and supporter Vishal Alhat, Dheeraj Choudhary for regular guidance.
 
 I trust this blog post and my personal experience have provided valuable insights for your future event planning endeavors. If you have any questions or would like to connect further, feel free to reach out to me on Twitter I trust this blog post and my personal experience have provided valuable insights for your future event planning endeavors. If you have any questions or would like to connect further, feel free to reach out to me on Twitter [@AvinashDalvi\_](https://twitter.com/AvinashDalvi_)
 
