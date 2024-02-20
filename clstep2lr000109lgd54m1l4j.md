@@ -180,7 +180,7 @@ Hosting the Mautic Conference was a masterclass in collaboration, audience engag
 * Collaboration
     
 
-Thanks to all volunteers Ajit Shinde, Pratik Upadhyay, Sibu Simran, Jitesh, Aastha Sushil, Vishal Alhat,Vinit, Nikita, Abhisek Mazumdar and Parth. This success would not have been possible without the incredible contributions of each and every one of you.
+Thanks to all volunteers Ajit Shinde, Pratik Upadhyay, Sibu Simran, Jitesh, Aastha Sushil, Vishal Alhat,Vinit, Nikita, Abhisek Mazumdar, Ruturaj Dubey and Parth. This success would not have been possible without the incredible contributions of each and every one of you.
 
 Thanks to my mentor and supporter Vishal Alhat, Dheeraj Choudhary for regular guidance.
 
