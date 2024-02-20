@@ -167,6 +167,8 @@ While attendee numbers are often seen as a key metric of success, for me, the tr
 
 Hosting the Mautic Conference was a masterclass in collaboration, audience engagement, sponsor management. Observing different approaches and learning from others' experiences has equipped me with observing and perseverance. These takeaways will definitely be on my event planning checklist next time! and for you too.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708407238727/d68a7e4b-72e3-4c9e-aa63-f69c3c57d796.jpeg align="center")
+
 ### Takeaway :
 
 * For the community, by the community
