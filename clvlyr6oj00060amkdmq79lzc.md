@@ -203,6 +203,8 @@ Here is a diagram for the workflow.
 
 Demo code link : [https://github.com/AvinashDalvi89/aws-ec2-autoscaling-deployment-codedeploy-github-actions](https://github.com/AvinashDalvi89/aws-ec2-autoscaling-deployment-codedeploy-github-actions)
 
+%[https://youtu.be/tiBCdEWWjMU] 
+
 Thats all. We completed EC2 autoscaling deployment using CodeDeploy and GitHub Actions. Remember that this is a high-level overview, and you’ll need to adapt it to your specific use case. Feel free to explore the provided resources and customize the setup according to your project requirements.
 
 Happy deploying! 🚀
