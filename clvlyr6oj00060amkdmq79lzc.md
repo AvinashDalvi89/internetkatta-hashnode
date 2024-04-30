@@ -189,8 +189,6 @@ jobs:
               token: ${{ secrets.CODEDEPLOY_TOKEN }}
               body: |
                     @${{ github.actor }} this was deployed as [${{ steps.deploy.outputs.deploymentId }}](https://console.aws.amazon.com/codesuite/codedeploy/deployments/${{ steps.deploy.outputs.deploymentId }}?region=us-east-1) to group `${{ steps.deploy.outputs.deploymentGroupName }}`.
-
-            
 ```
 
 To test these changes, make adjustments in your code file and monitor progress under "Actions". You can also track the same progress in the CodeDeploy deployment.
@@ -202,6 +200,8 @@ To test these changes, make adjustments in your code file and monitor progress u
 Here is a diagram for the workflow.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714400938918/ed2c86b4-f1de-40fa-91d8-297de90f97e3.png align="center")
+
+Demo code link : [https://github.com/AvinashDalvi89/aws-ec2-autoscaling-deployment-codedeploy-github-actions](https://github.com/AvinashDalvi89/aws-ec2-autoscaling-deployment-codedeploy-github-actions)
 
 Thats all. We completed EC2 autoscaling deployment using CodeDeploy and GitHub Actions. Remember that this is a high-level overview, and you’ll need to adapt it to your specific use case. Feel free to explore the provided resources and customize the setup according to your project requirements.
 
