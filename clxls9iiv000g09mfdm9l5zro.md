@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Ride: Unveiling the Secrets of Namma Yatri's Success"
 seoTitle: "Namma Yatri's Success Secrets Revealed"
-seoDescription: "Discover the inspiring story of Namma Yatri, an open-source ride-booking app revolutionizing Bengaluru's auto-rickshaw industry by prioritizing drivers and "
+seoDescription: "Discover the inspiring story of Namma Yatri, an open-source ride-booking app revolutionizing Bengaluru's auto-rickshaw industry by prioritizing drivers and"
 datePublished: Wed Jun 19 2024 12:02:05 GMT+0000 (Coordinated Universal Time)
 cuid: clxls9iiv000g09mfdm9l5zro
 slug: beyond-the-ride-unveiling-the-secrets-of-namma-yatris-success
@@ -19,11 +19,11 @@ I'm excited to share the hidden secrets behind Namma Yatri's success and how the
 
 Namma Yatri, which translates to "Our Commuter" in Kannada, started in Bengaluru as a challenger to traditional ride-hailing giants. Launched in late 2022, it aimed to disrupt the mobility landscape with a unique approach.
 
-Someone has said every problem is an opportunity to build something, we just have to look at that problem from a different angle. 
+Someone has said every problem is an opportunity to build something, we just have to look at that problem from a different angle.
 
 Let's dive into this story to reveal what Namma Yatri is so different from others.
 
-### Do you know Bangalore's favourite tussle ?? 
+### Do you know Bangalore's favourite tussle ??
 
 Forget Bangalore traffic! Bangalore's real daily tussle is the morning and evening commute. We all become experts at booking rides, hoping against cancellation with phrases like "Bhaiya aa rahe ho na?" (Hindi for "Coming, brother?") and "Anna barthera" (Kannada for "Please wait, brother").
 
@@ -43,11 +43,11 @@ Namma Yatri's story teaches us a valuable lesson: problem-solving requires a fre
 
 This approach leads to better products and, ultimately, a better experience for everyone involved.
 
-In August 2022 they launched the Namma Yatri app in pilot mode with 100 drivers. In October 2022 other ride hailing apps were banned by court to streamline pricing policy. The Namma yatri team leveraged this as an opportunity to launch Namma yatri publicly. In November 2022 they launched publicly and people started using it as an alternative to banned apps. 
+In August 2022 they launched the Namma Yatri app in pilot mode with 100 drivers. In October 2022 other ride hailing apps were banned by court to streamline pricing policy. The Namma yatri team leveraged this as an opportunity to launch Namma yatri publicly. In November 2022 they launched publicly and people started using it as an alternative to banned apps.
 
-This is exactly what happened: the Indian government banned notes of 500 and 1000 and Paytm grabbed this opportunity. 
+This is exactly what happened: the Indian government banned notes of 500 and 1000 and Paytm grabbed this opportunity.
 
-You should be ready to grab opportunities you should be available at the right time on right place. That is what Namma Yatri did. 
+You should be ready to grab opportunities you should be available at the right time on right place. That is what Namma Yatri did.
 
 ## Namma Yatri: Seizing the Moment
 
@@ -71,11 +71,9 @@ This translates into a unique marketing strategy: word-of-mouth promotion. Drive
 
 Namma Yatri fills another crucial gap for drivers: flexible payment options. Unlike traditional apps that primarily focus on online payments, Namma Yatri allows payment on delivery (payment after ride ends) or payment through Paytm and UPI. This eliminates the hassle of waiting for online payments to clear and empowers drivers to manage their finances more easily. This convenience is another reason drivers actively promote the app – a happy driver is a loyal driver! So the cancellation rate has dropped drastically.
 
-  
 The story doesn't end there. Namma Yatri's success can be further illustrated by an anecdote from a GitHub event. The CEO mentioned a driver association in Tumkur that independently adopted Namma Yatri, leading to an impressive 1000 daily rides! This exemplifies the power of community ownership and how a focus on user needs can fuel organic growth.
 
-##   
-Namma Yatri: Building Smart, Building Affordable
+## Namma Yatri: Building Smart, Building Affordable
 
 The Namma Yatri team serves as a masterclass in building a cost-effective tech product. They champion a subscription model – drivers pay a flat fee of ₹25 per day for unlimited rides. For a driver earning ₹1500 daily, this translates to a minimal investment with the potential for higher profits.
 
@@ -83,13 +81,13 @@ But is this margin enough to sustain Namma Yatri?  Here's where their focus on 
 
 Breaking Down the Costs:
 
-* Team Cost: Namma Yatri adopted the "two-pizza team" rule popularised by Jeff Bezos. This keeps teams small, fostering agility and reducing overhead.
+* **Team Cost**: Namma Yatri adopted the "two-pizza team" rule popularised by Jeff Bezos. This keeps teams small, fostering agility and reducing overhead.
     
-* Maps Cost: Instead of relying on expensive options like Google Maps, Namma Yatri leverages Open Street Map, a free and open-source alternative.
+* **Maps Cost**: Instead of relying on expensive options like Google Maps, Namma Yatri leverages Open Street Map, a free and open-source alternative.
     
-* Marketing Cost: As discussed earlier, word-of-mouth promotion significantly reduces marketing expenses.
+* **Marketing Cost**: As discussed earlier, word-of-mouth promotion significantly reduces marketing expenses.
     
-* Server Cost: This is an unavoidable expense, but Namma Yatri likely utilises cloud-based solutions for scalability and cost management.
+* **Server Cost**: This is an unavoidable expense, but Namma Yatri likely utilises cloud-based solutions for scalability and cost management.
     
 * The Power of Smart Choices
     
@@ -109,7 +107,6 @@ Namma Yatri stands out by being built on open-ource software. This means anyone 
 * **Cost-Effectiveness**: By having an open codebase, Namma Yatri can maintain a lean development team, allowing them to manage costs efficiently. Additionally, the open source nature prevents Juspay (the founder company) from imposing a commission fee in the future, as anyone could create a competing service with the same zero-commission model. This ultimately benefits both drivers (who earn more) and riders (who pay less).
     
 
-  
 **Open Data for Trust**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718796602823/6a372405-e99a-41ef-bd9e-b397942f4bdb.png align="center")
