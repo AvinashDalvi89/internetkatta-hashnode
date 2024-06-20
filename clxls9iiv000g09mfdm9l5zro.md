@@ -125,8 +125,8 @@ If you find interesting case study to build product or startup feel free to shar
 
 ## [References :](https://newsletter.theindianotes.com/)
 
-[https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-2](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-2)
-
-[https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1)
-
-[https://www.youtube.com/watch?v=\_iy7pLehyi8](https://www.youtube.com/watch?v=_iy7pLehyi8)
+* [https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-2](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-2)
+    
+* [https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1](https://newsletter.theindianotes.com/p/story-of-namma-yatri-part-1)
+    
+* [https://www.youtube.com/watch?v=\_iy7pLehyi8](https://www.youtube.com/watch?v=_iy7pLehyi8)
