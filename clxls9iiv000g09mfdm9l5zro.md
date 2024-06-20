@@ -15,6 +15,8 @@ Hey everyone!
 
 In this blog, we're diving into an inspiring story I discovered at the recent GitHub Constellation event in Bengaluru. It's all about Namma Yatri, a groundbreaking ride-booking app for auto-rickshaw drivers that's making waves with its open-source platform.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718858251069/ee9ea6ca-c01b-465b-bdd5-6147cbf53266.jpeg align="center")
+
 I'm excited to share the hidden secrets behind Namma Yatri's success and how they're making waves in the ride-hailing industry.
 
 Namma Yatri, which translates to "Our Commuter" in Kannada, started in Bengaluru as a challenger to traditional ride-hailing giants. Launched in late 2022, it aimed to disrupt the mobility landscape with a unique approach.
