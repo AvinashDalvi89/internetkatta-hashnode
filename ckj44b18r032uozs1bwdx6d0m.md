@@ -1,4 +1,12 @@
-## How to create tar file compression in AWS S3 ?
+---
+title: "How to create tar file compression in AWS S3 ?"
+datePublished: Fri Dec 25 2020 10:14:04 GMT+0000 (Coordinated Universal Time)
+cuid: ckj44b18r032uozs1bwdx6d0m
+slug: how-to-create-tar-file-compression-in-aws-s3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608891121081/p0LieBi0b.png
+tags: aws, python, amazon-s3, python-projects, christmashackathon
+
+---
 
 I am going to explain about how to create tar file compression in AWS S3 bucket files using Python(Boto3). This solution I came across while solving one  [StackOverflow question](https://stackoverflow.com/questions/64341192/how-to-create-a-tar-file-containing-all-the-files-in-a-directory/64341789#64341789) .  Let me explain first what a tar file. 
 
@@ -63,7 +71,7 @@ def get_matching_s3_keys(bucket, prefix='', suffix=''):
     s3object.meta.client.upload_file(source_dir+"example.tar", agtBucket, 'example.tar')
 ```
 
-Then we are done with writing code. If you would like to use AWS Lambda with same code then here is gist link : [tar-creation-s3-bucket.py](https://gist.github.com/aviboy2006/31fc1fc450edb2c4af19d47f36ab1259)
+Then we are done with writing code. If you would like to use AWS Lambda with same code then here is gist link : [tar-creation-s3-bucket.py](https://gist.github.com/AvinashDalvi89/31fc1fc450edb2c4af19d47f36ab1259)
 
 
 Hope you like my blog. Thanks for reading my blog. If you have any questions you can reach out to me at my twitter handle - [@aviboy2006](https://twitter.com/aviboy2006)
