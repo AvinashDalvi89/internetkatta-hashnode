@@ -107,7 +107,7 @@ Copy the example configuration file and create a new `config.yaml`:
 cp config.yaml.example config.yaml
 ```
 
-You can place this file in the root directory or, if you prefer a structured approach, keep it in an `example` folder. If you do this, remember to specify the path when running ElastAlert rules.
+You can place this file in the root directory or, if you prefer a structured approach, keep it in an `example` folder. If you do this, remember to specify the path when running ElastAlert rules. `elastalert-test-rule --config <path-to-config-file> example_rules/example_frequency.yaml`
 
 ## 5\. Install ElastAlert Dependencies
 
