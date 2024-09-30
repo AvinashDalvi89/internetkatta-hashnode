@@ -146,6 +146,8 @@ curl -X PUT "http://localhost:4566/filebeat-1"
 
 Use the following `PUT` request to add sample data:
 
+Note : use UTC timing for testing if you want to know what is your machine UTC timing then run this command `date -u` it will display like this `Mon Sep 30 11:01:57 UTC 2024` take out of timing and use in below CURL request.
+
 ```powershell
 curl -X PUT "http://localhost:4566/filebeat-1/_doc/1" -H 'Content-Type: application/json' -d '{
     "message": "Test log entry",
@@ -217,7 +219,7 @@ Alerts are often time-sensitive. Make sure the `@timestamp` field in your sample
 
 ### **Verbose Mode**:
 
-If the alerts aren't triggering, run ElastAlert in verbose mode to get more detailed output**.** So that can see what going wrong. In case my case i created one index with filebeat and testing alert with heartbeat and this issue able to found because of verbose flag.
+If the alerts aren't triggering, run ElastAlert in verbose mode to get more detailed output\*\*.\*\* So that can see what going wrong. In case my case i created one index with filebeat and testing alert with heartbeat and this issue able to found because of verbose flag.
 
 ```bash
 elastalert-test-rule examples/rules/example_error.yaml --alert --verbose
