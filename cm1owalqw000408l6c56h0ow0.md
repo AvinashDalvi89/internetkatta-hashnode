@@ -123,15 +123,23 @@ python setup.py install
 Navigate to the `example/rules` folder in the ElastAlert repository. You can either select an existing example rule or create a new one for testing. Here’s an example structure for a new rule:
 
 ```yaml
-name: "Sample Rule"
-type: query
-index: "filebeat-*"
+name: login page
+include: ["@timestamp", "monitor.name", "monitor.status", "ev.application.name"]
+type: frequency
+# We want to alert if we have been down for 5 minutes
+# Heartbeat runs every 60s, so we need 6 failures in 330s to trigger an alert
+# timeframe = (num_events - 1) * 60s + 60s / 2
+num_events: 1
+timeframe:
+  minutes: 10
+index: heartbeat-*
 filter:
-  - query:
-      query_string:
-        query: 'monitor.status: "down"'
+- query:
+    query_string:
+      query: 'monitor.name: "login page" AND monitor.status: "down"'
 alert:
-  - "email"  # Specify your alert method here
+  - ms_power_automate
+ms_power_automate_webhook_url: "https://webhook.site/e3f965f6-4087-4aad-a1db-7e46db55ae1d"
 ```
 
 ## 7\. Create an Index and Sample Data
