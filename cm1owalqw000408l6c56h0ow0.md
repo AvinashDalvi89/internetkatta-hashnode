@@ -237,6 +237,8 @@ elastalert-test-rule examples/rules/example_error.yaml --alert --verbose
 
 Common errors like `index_not_found_exception` can be resolved by creating the index first or ensuring the correct configuration file paths.
 
+%[https://youtu.be/zmhSuCnv2UA] 
+
 ## Conclusion
 
 By following these steps, you can effectively test ElastAlert locally using LocalStack and simulate web hook alerts. This setup is ideal for development and testing environments where you can validate your alerting rules before deploying them to production.
