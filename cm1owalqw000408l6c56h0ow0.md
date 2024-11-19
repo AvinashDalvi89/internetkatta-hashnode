@@ -172,7 +172,7 @@ curl -X PUT "http://localhost:4566/filebeat-1/_doc/1" -H 'Content-Type: applicat
 Run the ElastAlert test command:
 
 ```bash
-elastalert-test-rule example/rules/example_error.yaml --alert
+elastalert-test-rule examples/rules/example_error.yaml --alert --config examples/config.yaml
 ```
 
 This command will simulate the alert based on the created rule and the data in your Elasticsearch instance.
