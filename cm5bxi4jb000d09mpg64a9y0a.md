@@ -57,14 +57,6 @@ In parallel, I served as a **supporting organizer for the 30 Days of Amplify eve
 
 I also stepped into the **Mautic community supporting lead role**, a position I was both excited and anxious about. Despite my best intentions, I often felt that I couldn't give the role the justice it deserved. There were moments when I considered stepping away entirely, but I reminded myself why I took on the responsibility in the first place. I continued to contribute in whatever capacity I could, even if it felt small at times. In 2025, I am determined to show up better, contribute more meaningfully, and truly justify the trust placed in me by the community.
 
-## **Mentorship and Judging: 0x.Day Hackathon, Pondicherry**
-
-On December 29th and 30th, I had the incredible opportunity to be a mentor and a final panel judge at the prestigious 0x.Day Hackathon in Pondicherry. With over 500 participants and 130 teams, the energy was electric. Personally evaluating 27 teams was no small feat, but it was equally rewarding.
-
-During the hackathon, I was amazed by several projects focused on social and community impact. One team worked on creating sign language translations from YouTube or any video content, breaking barriers for hearing-impaired individuals. Another team built a voice-hearing application for people who can't listen, offering them a new way to interact with the world. A third project aimed to create an inclusive healthcare ecosystem, ensuring accessibility and care for underprivileged communities. There was even an innovative idea that focused on transforming negative or unclear speech into positive, meaningful communication.
-
-Each of these projects left a lasting impression on me, not just because of their technical ingenuity, but because of the compassion and purpose driving their creators. It reminded me that technology isn't just about innovation; it's about creating meaningful change in people's lives.
-
 ## **Fitness and Well-being: Small Habits, Big Changes**
 
 This year, I also focused on staying active and maintaining my well-being. Whether it was playing cricket, hitting the gym, walking, or enjoying a quick game of table tennis, these activities didn't just keep me fit—they kept me happy. They became moments of pause in an otherwise busy schedule, reminding me that while work is important, keeping the mind relaxed is even more essential.
