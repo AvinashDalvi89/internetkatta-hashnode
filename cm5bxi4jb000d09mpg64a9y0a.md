@@ -75,6 +75,27 @@ This focus on fitness and mental well-being stems from a deeply personal realiza
 
 In 2025, I aim to continue these habits and refine them further to maintain a balance between physical health, mental well-being, and professional excellence.
 
+## **YouTube Journey: Consistency and Growth**
+
+In 2024, I focused on building consistency on my **YouTube channel - Learn with Avinash Dalvi**. I committed to uploading videos **every Tuesday and Saturday**, and this routine brought both discipline and growth to my channel.
+
+📊 **2024 YouTube Milestones:**
+
+* **1,054 New Subscribers**
+    
+* **82K Views**
+    
+* **101 Uploads**
+    
+* **2,272 Likes**
+    
+* **58 Comments**
+    
+* **546 Shares**
+    
+
+This journey wasn't just about numbers; it was about showing up consistently, sharing knowledge, and building a connection with the audience. In 2025, I plan to keep this momentum going and continue delivering valuable content.
+
 ## **AWS re:Invent Nominations: A Moment of Pride**
 
 One of the proudest moments of 2024 was being **nominated in two categories at the AWS re:Invent APJ Community Awards Night**—'Invent & Simplify' and 'Deliver Results.' While I couldn't personally attend the event and didn't win the award, the nomination itself felt like a significant achievement.
