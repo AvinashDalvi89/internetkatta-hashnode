@@ -25,39 +25,39 @@ Think of **Powertools for AWS Lambda** as a Swiss Army knife for serverless appl
 
 Powertools offers a robust set of features to simplify serverless development:
 
-* **Tracer**
+* Tracer
     
-* **Logger**
+* Logger
     
-* **Metrics**
+* Metrics
     
-* **Event Handler**
+* Event Handler
     
-* **Parameters**
+* Parameters
     
-* **Batch Processing**
+* Batch Processing
     
-* **Typing**
+* Typing
     
-* **Validation**
+* Validation
     
-* **Event Source Data Classes**
+* Event Source Data Classes
     
-* **Parser (Pydantic)**
+* Parser (Pydantic)
     
-* **Idempotency**
+* Idempotency
     
-* **Data Masking** *(Focus of this blog)*
+* Data Masking *(Focus of this blog)*
     
-* **Feature Flags**
+* Feature Flags
     
-* **Streaming**
+* Streaming
     
-* **Middleware Factory**
+* Middleware Factory
     
-* **JMESPath Functions**
+* JMESPath Functions
     
-* **CloudFormation Custom Resources**
+* CloudFormation Custom Resources
     
 
 In this blog, we are going to explore **Data Masking** usage in detail. For data masking, Powertools ensures that only necessary data appears in your logs.
