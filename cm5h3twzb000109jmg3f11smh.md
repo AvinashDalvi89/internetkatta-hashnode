@@ -1,12 +1,12 @@
 ---
-title: "Simplified Data Masking in AWS Lambda with Powertool"
+title: "Simplified Data Masking in AWS Lambda with Powertools"
 seoTitle: "AWS Lambda Data Masking Made Easy"
 seoDescription: "Learn how to implement data masking with Powertools in AWS Lambda to ensure compliance in healthcare and finance industries"
 datePublished: Fri Jan 03 2025 18:44:41 GMT+0000 (Coordinated Universal Time)
 cuid: cm5h3twzb000109jmg3f11smh
 slug: simplified-data-masking-in-aws-lambda-with-powertool
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735929105657/fc524c73-d47a-4ef7-9c99-7013bc31a457.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735929299229/db3317ee-b6ed-4705-af96-2a27a5e5ca44.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736168256271/8963631d-82f3-4b8c-8da0-b20c9eac34bd.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736168269604/6e28b2f9-98cc-4c58-9050-527c8569700f.png
 tags: lambda, aws, python, serverless, lambda-function, powertools
 
 ---
@@ -15,7 +15,7 @@ Hello Devs,
 
 > “Data is the new oil,” they say, but in healthcare and finance, it’s more like nitroglycerin—immensely valuable, yet dangerously explosive if mishandled.”
 
-I recently shared on social media that I've joined the healthcare industry. This marks a shift from my background in both e-commerce and finance. During my time in finance, I dealt extensively with highly sensitive data like bank statements, KYC information, personal identification details, and other financial records. I vividly recall understanding that even a minor data handling error could have severe repercussions: breaches, fines, and, most importantly, a loss of public trust. This same level of data sensitivity exists in healthcare, where every piece of patient information is crucial and protected by regulations like GDPR and HIPAA. To comply with these regulations and similar ones worldwide, data masking has become essential. In this blog, I’ll break down what Powertools is, how it can be used for data masking in AWS Lambda, and why it’s critical for domains like finance and healthcare. While Powertools for AWS Lambda existed for .NET and TypeScript, the May 2024 release of Python support has been a major boost, making it accessible to a much wider audience. Let's dive into Powertools for AWS Lambda.
+I recently shared on social media that I've joined the healthcare industry. This marks a shift from my background in both e-commerce and finance. During my time in finance, I dealt extensively with highly sensitive data like bank statements, KYC information, personal identification details, and other financial records. I vividly recall understanding that even a minor data handling error could have severe repercussions: breaches, fines, and, most importantly, a loss of public trust. This same level of data sensitivity exists in healthcare, where every piece of patient information is crucial and protected by regulations like GDPR and HIPAA. To comply with these regulations and similar ones worldwide, data masking has become essential. In this blog, I’ll break down what Powertools is, how it can be used for data masking in AWS Lambda, and why it’s critical for domains like finance and healthcare. Let's dive into Powertools for AWS Lambda.
 
 ## **What is Powertools for AWS Lambda?**
 
@@ -146,9 +146,9 @@ Response:
 }
 ```
 
-To use `encrypt` method refer this official documentation [https://docs.powertools.aws.dev/lambda/python/latest/utilities/data\_masking/#encrypting-data](https://docs.powertools.aws.dev/lambda/python/latest/utilities/data_masking/#encrypting-data) and for `decrypt` method use this [https://docs.powertools.aws.dev/lambda/python/latest/utilities/data\_masking/#encrypting-data](https://docs.powertools.aws.dev/lambda/python/latest/utilities/data_masking/#encrypting-data)
+To use `encrypt` method refer this official documentation [https://docs.powertools.aws.dev/lambda/python/latest/utilities/data\_masking/#encrypting-data](https://docs.powertools.aws.dev/lambda/python/latest/utilities/data_masking/#encrypting-data) and for `decrypt` method use this [https://docs.powertools.aws.dev/lambda/python/latest/utilities/data\_masking/#decrypting-data](https://docs.powertools.aws.dev/lambda/python/latest/utilities/data_masking/#decrypting-data)
 
-In this way we can validate compliance with Powertools and it is not only masks data but also helps with metrics and tracing to ensure compliance with industry standards like GDPR or HIPPA
+[In this way we can validate compliance with Powertools and it is not only masks data but a](https://docs.powertools.aws.dev/lambda/python/latest/utilities/data_masking/#decrypting-data)lso helps with metrics and tracing to ensure compliance with industry standards like GDPR or HIPAA
 
 ## **Real-World Use Case: Healthcare Application Logs**
 
