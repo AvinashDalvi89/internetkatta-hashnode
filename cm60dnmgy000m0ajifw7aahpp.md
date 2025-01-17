@@ -13,7 +13,7 @@ tags: aws, angular, serverless, amplify, amplify-hosting
 
 Hello Devs,
 
-As a developer, we always been in situation where where the previous developer has long moved on, and you’re left with no documentation or answers. That was exactly the situation I found myself in when I started working on an Angular project that required deep linking for both iOS and Android. The previous developer wasn’t available, and I had to figure out how to make deep linking work in the existing codebase. Even after so many years of experience deep linking concept was new to me ( how it works ).
+As a developer, we always been in situation where the previous developer has long moved on, and you’re left with no documentation or answers. That was exactly the situation I found myself in when I started working on an Angular project that required deep linking for both iOS and Android. The previous developer wasn’t available, and I had to figure out how to make deep linking work in the existing codebase. Even after so many years of experience deep linking concept was new to me ( how it works ).
 
 I’ll be honest — it wasn’t a smooth start. One of standup my team raised concern about this So I took this challenge to solve Though I good in Amplify hosting and Angular but how deep links work was exploration part. But with the help of Amazon Q Developer and a lot of trial and error, I eventually managed to set everything up. Amazon Q developer become best buddy to solve issue which I am not aware. I do use ChatGPT but for most of AWS related query used Amazon Q developer because expertise it has.
 
