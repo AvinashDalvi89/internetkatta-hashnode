@@ -98,3 +98,7 @@ None of these companies built their **final, scaled architecture on day one.** T
 If you're building a new platform, don’t get caught up in trying to **perfect everything from day one**. Focus on building **a solid foundation**, listen to your system, and **let real usage guide your scaling decisions**. This is what Instagram did, what major tech giants did, and what we are doing at NuShift.
 
 Scaling is a **journey of learning and evolution**. The best approach? **Implement, observe, refine, repeat.** 🚀
+
+## References :
+
+[https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure?ref=dailydev](https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure?ref=dailydev)
