@@ -177,7 +177,7 @@ But if you're on **macOS**, there are a few *extra steps* you **must** follow be
 
 ### Final Thoughts
 
-Feel free to share what you are targeting to move from manual or script work to Amazon Q Developer CLI**.** I’ve built EC2 clones hundreds of times the old way.  
+Feel free to share what you are targeting to move from manual or script work to Amazon Q Developer CLI\*\*.\*\* I’ve built EC2 clones hundreds of times the old way.  
 But this experience — using natural language to handle it — felt like the future.
 
 Amazon Q Developer CLI didn’t just save time.  
@@ -185,3 +185,11 @@ It let me focus on solving the actual problem, not navigating a UI maze.
 
 And honestly?  
 I can’t wait to see what other repetitive tasks I can retire next.
+
+### References :
+
+* [https://dev.to/aws/getting-started-with-amazon-q-developer-cli-4dkd](https://dev.to/aws/getting-started-with-amazon-q-developer-cli-4dkd)
+    
+* [https://github.com/aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)
+    
+* [https://www.linkedin.com/posts/ricardosueiras\_amazonqdevelopercli-aws-demoscene-activity-7312502995567431680-OocE/?utm\_source=share&utm\_medium=member\_desktop&rcm=ACoAAAAycFYBiLynyePvMJ45ZRUDGVPqRgz4AJg](https://www.linkedin.com/posts/ricardosueiras_amazonqdevelopercli-aws-demoscene-activity-7312502995567431680-OocE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAycFYBiLynyePvMJ45ZRUDGVPqRgz4AJg)
