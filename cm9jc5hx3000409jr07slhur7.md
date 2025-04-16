@@ -173,11 +173,11 @@ But if you're on **macOS**, there are a few *extra steps* you **must** follow be
     Open your terminal and try typing `q chat` — you should now see the CLI assistant activate in context.
     
 
----
+%[https://youtu.be/CKye8xI0HiU] 
 
 ### Final Thoughts
 
-Feel free to share what you are targeting to move from manual or script work to Amazon Q Developer CLI\*\*.\*\* I’ve built EC2 clones hundreds of times the old way.  
+Feel free to share what you are targeting to move from manual or script work to **Amazon Q Developer CLI** I’ve built EC2 clones hundreds of times the old way.  
 But this experience — using natural language to handle it — felt like the future.
 
 Amazon Q Developer CLI didn’t just save time.  
