@@ -130,6 +130,8 @@ Whether it was a packed Exhibition Lounge, a selfie with Jason (yes, that happen
     
 * **Koti** – The voice of calm in chaos. He’s a true community leader who brings in diverse insights from his experience running PyCon India — always calm in chaos. Whenever things went haywire, Koti was there with a plan and a laugh.
     
+* **AJ & Srushith** – The creative minds behind the AI speaker invention visuals that caught everyone’s attention. Their imaginative execution and attention to detail brought an extra layer of innovation to the event's design language.
+    
 
 Thanks also to the [**Konfhub**](https://konfhub.com/) **team**, especially **Hari** and **Ganesh**, for their incredible support in making this event a smooth experience — from handling ticketing operations seamlessly to sharing valuable insights whenever we hit a snag. Their behind-the-scenes help played a big part in the overall experience.
 
