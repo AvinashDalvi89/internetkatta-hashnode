@@ -129,6 +129,8 @@ Whether it was a packed Exhibition Lounge, a selfie with Jason (yes, that happen
 * **Koti** – The voice of calm in chaos. He’s a true community leader who brings in diverse insights from his experience running PyCon India — always calm in chaos. Whenever things went haywire, Koti was there with a plan and a laugh.
     
 
+Thanks also to the [**Konfhub**](https://konfhub.com/) **team**, especially **Hari** and **Ganesh**, for their incredible support in making this event a smooth experience — from handling ticketing operations seamlessly to sharing valuable insights whenever we hit a snag. Their behind-the-scenes help played a big part in the overall experience.
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748523668864/2a8ffd07-f02c-42d4-ae16-0560d17105a9.png align="center")
 
 ### Life Behind the Curtain
@@ -156,3 +158,5 @@ Thank you. You weren’t just volunteers — you were visionaries, warriors, and
 * AWS UG BLR meet up link to join - [http://meetup.com/awsugblr](http://meetup.com/awsugblr)
     
 * AWS Community Day Bengaluru Blogathon awesome stories - [https://acdblr-blogathon.devpost.com/project-gallery](https://acdblr-blogathon.devpost.com/project-gallery)
+    
+* [Konfhub](https://konfhub.com/) - our ticketing platform
