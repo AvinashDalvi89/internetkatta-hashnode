@@ -52,7 +52,7 @@ Two moments stood out for me as serendipitous reminders of how everything comes 
 
 The first was when my engineering college friend **Sagar**, who now runs an event management company called StudioB3, showed up at ACD. We hadn’t met in over 12 years. He’s been doing events for more than a decade — something I had completely forgotten. But someone once told me, *"When your time comes, the right people will show up to help you."* Reconnecting with Sagar at this moment felt like that kind of magic.
 
-The second was when **Talvinder Singh**, founder of zop.dev, reached out via my official email regarding AWS cloud services. I could’ve replied formally, but instead, I sent him a message from my personal email — pitching the idea of sponsorship. And guess what? Talvinder turned out to be a former client from my time at Sodel Solutions. A full-circle moment, reminding me that when you build good relationships, people remember you.
+The second was when **Talvinder Singh**, founder of [zop.dev](https://zop.dev/), reached out via my official email regarding AWS cloud services. I could’ve replied formally, but instead, I sent him a message from my personal email — pitching the idea of sponsorship. And guess what? Talvinder turned out to be a former client from my time at Sodel Solutions. A full-circle moment, reminding me that when you build good relationships, people remember you.
 
 Both moments reminded me that success is never solo — it's shaped by people, timing, and the relationships you nurture along the way.
 
@@ -111,6 +111,8 @@ Whether it was a packed Exhibition Lounge, a selfie with Jason (yes, that happen
 * **Jones** – The finance ministry and collaboration expert of our team. Always patient, always composed — he ensured everything behind the scenes ran with clarity and calm. Whether it was budget planning or community outreach, Jones brought structure, insight, and an unwavering willingness to help.
     
 * **Vivek Raja** – The ML brain with a builder’s heart. Whether it was on-stage storytelling or behind-the-scenes mentoring, Vivek added thought leadership with humility.
+    
+* **Srushith** – The brain behind so many tactics that made this event impactful. From growth strategies to last-mile execution, his input often shaped the outcome — even when he stayed behind the curtain.
     
 * **Ayyanar** – Deep tech wizard. His AI/ML depth and thoughtful insights shaped the content backbone of the event.
     
