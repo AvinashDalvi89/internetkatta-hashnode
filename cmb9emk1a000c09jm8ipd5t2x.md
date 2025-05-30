@@ -156,6 +156,8 @@ As someone who’s been part of many community events, ACD BLR 2025 felt differe
 
 Thank you. You weren’t just volunteers — you were visionaries, warriors, and glue that held it all together. This one’s for you.
 
+[https://youtube.com/shorts/i6WMuXA4wMM](https://youtube.com/shorts/i6WMuXA4wMM)
+
 ### References :
 
 * AWS UG BLR meet up link to join - [http://meetup.com/awsugblr](http://meetup.com/awsugblr)
