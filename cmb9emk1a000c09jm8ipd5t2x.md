@@ -7,7 +7,6 @@ cuid: cmb9emk1a000c09jm8ipd5t2x
 slug: behind-the-scenes-of-aws-community-days-bengaluru-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748524222771/5081e6fc-0493-45cc-80ba-d2e0c57f5ffe.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748524957185/f16f201f-7579-4127-9f1d-8b67e8a635f3.png
-tags: experience, stories, aws-community-day, aws-community-builders, aws-community
 
 ---
 
