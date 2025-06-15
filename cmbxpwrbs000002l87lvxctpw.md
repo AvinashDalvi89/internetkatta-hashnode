@@ -67,7 +67,7 @@ That’s when we connected the dots. We had scaling at the **task level**, but t
 
 **It was like hiring more workers without giving them desks.** We were adding more containers, but the underlying compute had no room to host them.
 
-## From API Load to Instance Demand: How to Estimate Capacity Like a Developer
+## How to Estimate Capacity Like a Developer
 
 Let’s say you're running a Flask or FastAPI app on ECS. The app handles:
 
@@ -82,7 +82,7 @@ Let’s say you're running a Flask or FastAPI app on ECS. The app handles:
 
 Here’s a **developer-first method**:
 
-Step 1: Understand the API Behavior
+Step 1: Understand the API behaviour
 
 * What is the **average latency** of a single API call? (e.g. 500ms)
     
@@ -107,7 +107,7 @@ Step 3: Monitor Key Metrics
     
 * ECS `ManagedScaling` logs
     
-* App logs for 502s, slow endpoints, queuing behavior
+* App logs for 502s, slow endpoints, queuing behaviour
     
 
 Step 4: Set Scaling Policies
@@ -182,7 +182,7 @@ So CAS would scale **one t4g.medium** to place those four tasks.
 
 ## Daemon vs Non-Daemon Tasks: What Matters for Scaling
 
-### Daemon Task
+Daemon Task
 
 * Scheduled to run on **every EC2 instance**
     
@@ -191,7 +191,7 @@ So CAS would scale **one t4g.medium** to place those four tasks.
 * ECS **ignores these** when calculating scale-out/scale-in
     
 
-### Non-Daemon Task
+Non-Daemon Task
 
 * Your real app workloads (Flask, Socket, Workers)
     
@@ -228,21 +228,21 @@ Once we added **CAS**:
 
 Finally, tasks scaled. And so did the infra. No more 502s.
 
-## 🧪 What If You're Launching a New App and Don’t Know the Load Yet?
+## What If You're Launching a New App and Don’t Know the Load Yet?
 
 Start lean. Scale for learnings.
 
-When launching something new—like we are with NuShift—it’s often unclear what kind of user load or traffic patterns to expect. In such cases, make decisions based on expected concurrency, your framework’s behavior, and instance characteristics.
+When launching something new—like we are with NuShift—it’s often unclear what kind of user load or traffic patterns to expect. In such cases, make decisions based on expected concurrency, your framework’s behaviour, and instance characteristics.
 
 Here are some tips to guide early capacity planning:
 
 * **Estimate concurrency**: If you expect 50–100 concurrent users, and each user triggers multiple API calls, try to estimate peak call concurrency.
     
-* **Understand your app behavior**: Flask or FastAPI-based apps usually work well with 0.25 vCPU and 512MB, especially if I/O bound (e.g., API calls, DB reads). If your app does image processing or CPU-intensive work, start with 0.5 vCPU.
+* **Understand your app behaviour**: Flask or FastAPI-based apps usually work well with 0.25 vCPU and 512MB, especially if I/O bound (e.g., API calls, DB reads). If your app does image processing or CPU-intensive work, start with 0.5 vCPU.
     
 * **Choose your EC2 wisely**: We use `t4g.medium` (2 vCPU, 4GB RAM) for its cost-efficiency and support for multiple small tasks (6–8 per instance).
     
-* **Monitor early patterns**: Let metrics shape your scaling curve—track `CPUUtilization`, `MemoryUtilization`, and task startup times.
+* **Monitor early patterns**: Let metrics shape your scaling curve—track `CPUUtilisation`, `MemoryUtilisation`, and task startup times.
     
 
 Example initial config:
