@@ -5,7 +5,8 @@ seoDescription: "Learn why ECS tasks might not be scaling effectively and how EC
 datePublished: Sun Jun 15 2025 13:45:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmbxpwrbs000002l87lvxctpw
 slug: why-your-ecs-tasks-arent-scaling
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749994743900/e039c589-ca38-4f4e-997a-c131ddab6491.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749995295849/c4d6bb6f-115a-456f-8c44-3f4f8073060a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1749995306609/fe4af494-7d92-4571-ab81-a38903aac771.png
 tags: ec2, aws, developer, ecs, ecs-task
 
 ---
