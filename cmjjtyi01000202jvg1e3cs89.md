@@ -52,8 +52,6 @@ That's when I finally arrived. That had been in Vegas for hours. But my mind. My
 
 And from that point forward, everything shifted.
 
----
-
 ## Meeting the People Who Build the Things I Build On
 
 I talk about ECS and Serverless constantly from product builder point of view. The service I return to, the one I recommend, the one I've built my mental models around.
@@ -186,8 +184,6 @@ More importantly, I know *who* stood behind me so I could do any of it.
 
 The nomination wasn't just about me. It was about everyone who made space for me to contribute.
 
----
-
 ## What This Trip Really Taught Me
 
 This wasn't a smooth trip.  
@@ -208,8 +204,6 @@ The technical knowledge matters. But the connections, the shared struggles, the 
 
 **Curiosity makes the journey worth continuing.**  
 Even exhausted, even worried, even uncertain—asking questions, seeking understanding, wanting to know *why* and *how*—that's what keeps us moving forward.
-
----
 
 ## What Comes Next
 
